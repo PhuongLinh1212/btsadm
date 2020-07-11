@@ -1,13 +1,13 @@
 {
   "ads": {
     "id_app": "5",
-    "banner_setting": "ca-app-pub-8541594829243773/8869504533",
-    "inter_setting": "ca-app-pub-8541594829243773/3617177858",
-    "banner_main": "ca-app-pub-8541594829243773/1427140545",
-    "inter_main": "ca-app-pub-8541594829243773/5121831218"
+    "banner_setting": "ca-app-pub-8541594829243773/4038235284",
+    "inter_setting": "ca-app-pub-8541594829243773/9098990279",
+    "banner_main": "ca-app-pub-8541594829243773/9290561964",
+    "inter_main": "ca-app-pub-8541594829243773/6664398622"
   }, 
   "app_exists": {
-    "id": "com.captainhenry.videocall.prank",
+    "id": "com.videocall.bts.btsmessenger.btscall.callbts.btsidol",
     "is_exists": true,
     "is_show_more": false
   },
