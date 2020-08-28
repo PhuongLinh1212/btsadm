@@ -1,10 +1,10 @@
 {
   "ads": {
-    "id_app": "",
-    "banner_setting": "ca-app-pub-3399710561924220/4089271366",
-    "inter_setting": "ca-app-pub-3399710561924220/9221344397",
-    "banner_main": "ca-app-pub-3399710561924220/9150026355",
-    "inter_main": "ca-app-pub-3399710561924220/3897699673",
+    "id_app": "5f1eec74e88d834ccd84aa8f",
+    "banner_setting": "ca-app-pub-3399710561924220/9783952760",
+    "inter_setting": "ca-app-pub-3399710561924220/3962997482",
+    "banner_main": "ca-app-pub-3399710561924220/7710670805",
+    "inter_main": "ca-app-pub-3399710561924220/5844707756",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
